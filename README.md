@@ -1,8 +1,9 @@
 The odin project recipe project
 
+ - Will be making a lists of recipes using skills such as :
 
-Use list
+Using lists
 
 Absolute and Relative links
 
-Images
+Linking Images
